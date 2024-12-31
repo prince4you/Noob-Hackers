@@ -23,3 +23,9 @@ apt install package -y
 ```shell
 curl -sSL https://raw.githubusercontent.com/prince4you/Noob-Hackers/refs/heads/main/addrepo.sh | bash
 ```
+## Follow Me
+
+- [YouTube](https://youtube.com/@noobcybertech2024?si=MVKSaevhkBnmceKZ)
+- [Telegram](https://t.me/Annon4you)
+- [Instagram](https://www.instagram.com/annon_4you)
+- [WhatsApp Group](https://chat.whatsapp.com/DQHA1MZ46RYGlyIIOPZR2T)
