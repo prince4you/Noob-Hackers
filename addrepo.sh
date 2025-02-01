@@ -7,7 +7,7 @@ sleep 2
 if [[ ! -d $PREFIX/etc/apt/sources.list.d ]]; then
   mkdir -p $PREFIX/etc/apt/sources.list.d > /dev/null 2>&1
 fi  
-echo "deb [trusted=yes arch=all] https://raw.githubusercontent.com/prince4you/Noob-Hacker/refs/heads/main exploit main" > $PREFIX/etc/apt/sources.list.d/sunil.list
+echo "deb [trusted=yes arch=all] https://raw.githubusercontent.com/prince4you/Noob-Hackers/refs/heads/main exploit main" > $PREFIX/etc/apt/sources.list.d/sunil.list
 
 echo -e "\e[32mAdding keys for Noob-Hackers repo\e[0m"
 curl -sL https://raw.githubusercontent.com/prince4you/Noob-Hackers/refs/heads/main/NoobHackers.key | apt-key add
