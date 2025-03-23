@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: termux
+Version: 1
+Architectures: all
+Description: Prince4you repository
+Suite: Prince4you
+Date: Sun, 23 Mar 2025 12:25:56 UTC
+Components: main
+MD5Sum:
+ fbc87cec41b677ef41f6643403469429 13796 main/binary-all/Packages
+ f7780b161a5094b0c1def30e44cad529 5660 main/binary-all/Packages.xz
+ 8a95763b0b9f908d3cf234b6dc6cbd6b 436685 main/Contents-all
+ b9a1c334c7c59e7b38ca1b3a0031f526 26300 main/Contents-all.xz
+SHA1:
+ e285fbcf10930e10e15c509bee6d77996f31e375 13796 main/binary-all/Packages
+ 993db9cfbcec07445c20c635c263c8988a03afb1 5660 main/binary-all/Packages.xz
+ d22bfaf5d0a2fd02851b8d66832a656a9406f5f4 436685 main/Contents-all
+ 20e2085052167ef96cdb505aa32bcbf47c42b4c7 26300 main/Contents-all.xz
+SHA256:
+ 040986db914b57e8cc5e9275e30cf25522ffbaaf2ac2d537e9cd4f7572e39535 13796 main/binary-all/Packages
+ 7a92fb50a9bcf51ff7785a3570be52a66b1513fb6896bbe286902238ed1d7708 5660 main/binary-all/Packages.xz
+ 61a2c8d97331e148117598b7090afa1b0c3f79f1b65a86cdb7ad2242f1a1a6c3 436685 main/Contents-all
+ 1a0a84d13606ad9e082daa44210571a43ca0ca6169db5febdffaf2388c22f7a2 26300 main/Contents-all.xz
+SHA512:
+ 2b08fa7d8d55d63172eb05b52762b8e7a368ff84ffdb8a02e0f490f4806f2d2f9584c41b765db328fb56d33777bbcca73efe0e972dec36dd383d835d5a124998 13796 main/binary-all/Packages
+ 5c51002e10514da58bb3650ed681eebf715c46167a81951110c82d0d67269ea8a5ad4dd7211292d907f54132f90455dce10072317971b50f5bb5497a32fcc5c2 5660 main/binary-all/Packages.xz
+ 9c00f54887588329b21e45a0d5125f3d9b299dc543432b3fcb2371a830827ab7db2d6a403862df56de1a60157a3c49b7594495e26f873f5b8cc8d7df40c94544 436685 main/Contents-all
+ a4885cef1e0301483a6401310b49ffd6f7172f2a2e948645db239ee92474869228f8aa307baf7436917eb8f4fe0b582a7627beb69e337640ed136f3c9957464f 26300 main/Contents-all.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEET8C3mPFd+pjCw5k1LkaicDEJA6sFAmff/dYACgkQLkaicDEJ
+A6s7mw//cAvVaUOi8qIFx4KuWBqjRVOw6b5XDjdffUIdf37mbx8tfZf6duiCauyU
+S+HLGgXgHv0FlgRXZd9buC+7SpZ+d4G0qpqc5yHgWJsT28+ag+7crTLlcw4BM3lG
+b1Y0gOGOC+AdEZ4G7Ae+HY6FtfRdiW5NMBLcyajgL0N7ilCesSA5fnQ5GdRk0ImA
+ktvZHIUYLFCXAnFPFUjYJhSp7FP7SLc6zPvQsSxE19pBa2fGc7gr8Q5FfbzvIS8Y
+fypl3Ciydy1Lh6t5jgiMF3IbFHgvu2ZLkwl1uOK/OZDlNSXWTz2TOSsnoyqNC921
+Lmcw9Y//zcm7XduoN6cD827Y8gKJVvJSjDRHnLlfYRarimTRJpmduGDapv1CE/sG
+jixdvUDqKFNQI/yv0p6cmjHpw1eX4skbUd2zQf5nsX1XZtDBUoVJUxcpm1deNsoj
+VZlzZ8Gfk25lt4co4q3WOyQWTauS9lu1TPH+r0ODm/MQctbHSXmUPvStOBa30KIe
+eD4TVgMNUgMGfxdFgEGWMwiZsFkXbu11kfzcvSqpuGrIhkAAu+x1hUSIE4KOF1yl
+4FKVeMMrTSA/ZCN5t/QRCfAJWI72N3OiDLtv2oNW1N6DaEOzVXC18arJuuKm8qE+
+KQv+K7CNOSaeEsrp9ob4IG/roS55F7uyRNAyGsInuCfiGE5oclM=
+=ZDIU
+-----END PGP SIGNATURE-----
