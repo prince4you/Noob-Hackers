@@ -20,7 +20,7 @@ apt install package -y
 
 ## Add repo in your termux
 ```shell
-curl -sSL https://github.com/prince4you/Noob-hackers/blob/main/add-repo.sh | bash
+curl -sSL https://raw.githubusercontent.com/prince4you/Noob-hackers/main/add-repo.sh | bash
 ```
 ## Follow Me
 
