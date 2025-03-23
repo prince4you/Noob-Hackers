@@ -40,13 +40,13 @@ if [[ ! -d $PREFIX/etc/apt/sources.list.d ]]; then
   mkdir -p $PREFIX/etc/apt/sources.list.d > /dev/null 2>&1 || handle_error "Failed to create sources.list.d directory."
 fi
 
-echo "deb [trusted=yes arch=all] https://raw.githubusercontent.com/prince4you/Noob-Hackers/refs/heads/main exploit main" > $PREFIX/etc/apt/sources.list.d/noob-backers.list || handle_error "Failed to add Noob-backers repository."
+echo "deb [trusted=yes arch=all] https://raw.githubusercontent.com/prince4you/Noob-hackers/refs/heads/main Prince4you main" > $PREFIX/etc/apt/sources.list.d/noob-backers.list || handle_error "Failed to add Noob-backers repository."
 echo -e "${GREEN}${CHECK} Noob-backers repository added successfully!${RESET}"
 echo ""
 
 # Add repository key
 echo -e "${YELLOW}${INFO} Adding GPG key for Noob-backers repository...${RESET}"
-if curl -sL https://raw.githubusercontent.com/prince4you/Noob-Hackers/refs/heads/main/noob-hacker.key | apt-key add - > /dev/null 2>&1; then
+if curl -sL https://raw.githubusercontent.com/prince4you/Noob-hackers/refs/heads/main/noob.key | apt-key add - > /dev/null 2>&1; then
   echo -e "${GREEN}${CHECK} GPG key added successfully!${RESET}"
 else
   handle_error "Failed to add GPG key."
